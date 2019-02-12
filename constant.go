@@ -1,0 +1,4 @@
+package main
+
+const RESPONSE_CODE_SUCCESS  = 200
+const RESPONSE_CODE_FAILURE  = 500
